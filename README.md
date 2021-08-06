@@ -1,6 +1,6 @@
 [![lucocozz's 42 stats](https://badge42.herokuapp.com/api/stats/lucocozz)](https://matias.ma/nsfw/)
 
-### Projects done at 42 till now:
+### Projects done at 42 till now 🤌 :
 | Project | Result |
 | ------- | ------ |
 | [Cub3d] | ![Cub3d score](https://badge42.herokuapp.com/api/project/lucocozz/cub3d) |
