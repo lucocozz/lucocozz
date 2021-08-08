@@ -24,3 +24,7 @@
 [ft_printf]: https://github.com/lucocozz/ft_printf
 [get_next_line]: https://github.com/lucocozz/get_next_line
 [libft]: https://github.com/lucocozz/libft
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucocozz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucocozz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucocozz&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
